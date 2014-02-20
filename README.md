@@ -6,4 +6,6 @@ small drawers. This one **will not** fit the larger drawers on other models.
 
 For more detail and a picture, see this [post](http://open.konspyre.org/blog/2013/02/04/printable-divider/).
 
-Licensing: WTFPL (feel free to download, use, remix, and do anything/everything)
+License: 
+CC0 Public Domain.
+Using this for world domination is (still) allowed. More information [here](http://creativecommons.org/publicdomain/zero/1.0/).
