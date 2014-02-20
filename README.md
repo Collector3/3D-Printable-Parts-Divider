@@ -8,4 +8,4 @@ For more detail and a picture, see this [post](http://open.konspyre.org/blog/201
 
 License: 
 CC0 Public Domain.
-Using this for world domination is (still) allowed. More information [here](http://creativecommons.org/publicdomain/zero/1.0/).
+Using this for world domination is allowed. More information [here](http://creativecommons.org/publicdomain/zero/1.0/).
